@@ -1,2 +1,2 @@
 # tabla-periodica
-Es un proyecto personal donde hagola tabla periódica.
+Es un proyecto personal donde hago la tabla periódica.
